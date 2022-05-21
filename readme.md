@@ -29,6 +29,14 @@
 
 <!--sec data-title="" data-id="" data-collapse=true ces-->
 
+#### Collecting static files
+
+    python manage.py collectstatic
+
+<!--endsec-->
+
+<!--sec data-title="" data-id="" data-collapse=true ces-->
+
 #### Starting server
 
     python manage.py runserver
